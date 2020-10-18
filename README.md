@@ -19,4 +19,3 @@ API used - <a>https://api.imgflip.com/get_memes</a>
 
 # Note
 You’ll need to have Node >= 8.10 and npm >= 5.6 on your machine.<br/>
-To add your own data, go to **todo-list -> src -> todosData.js** In the **todosData.js** file, change the data to whatever you want to be displayed.
